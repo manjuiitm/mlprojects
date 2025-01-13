@@ -23,15 +23,18 @@ This app predicts if an applicant will be approved for a credit card or not. Eac
 
 Correlation between the features.
 
-![heatmap](assets/heatmap.png)
+https://github.com/manjuiitm/mlprojects/mlprojects/Credit-card-approval-prediction-classification
+/assets/
 
 Confusion matrix of gradrient boosting classifier.
 
-![Confusion matrix](assets/confusion_matrix.png)
+https://github.com/manjuiitm/mlprojects/mlprojects/Credit-card-approval-prediction-classification
+/assets/assets/confusion_matrix.png)
 
 ROC curve of gradrient boosting classifier.
 
-![ROC curve](assets/roc.png)
+https://github.com/manjuiitm/mlprojects/mlprojects/Credit-card-approval-prediction-classification
+/assets/assets/roc.png)
 
 Top 3 models (with default parameters)
 
