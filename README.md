@@ -69,43 +69,6 @@ Top 3 models (with default parameters)
 - Hyperparameter tuning: I used RandomeSearchCV to save time but could be improved by couple of % with GridSearchCV.
 
 
-## Run Locally
-Initialize git
-
-```bash
-git init
-```
-
-
-Clone the project
-
-```bash
-git clone https://github.com/semasuka/Credit-card-approval-prediction-classification.git
-```
-
-enter the project directory
-
-```bash
-cd Credit-card-approval-prediction-classification
-```
-
-Create a conda virtual environment and install all the packages from the environment.yml (recommended)
-
-```bash
-conda env create --prefix <env_name> --file assets/environment.yml
-```
-
-Activate the conda environment
-
-```bash
-conda activate <env_name>
-```
-
-List all the packages installed
-
-```bash
-conda list
-```
 
 Start the streamlit server locally
 
